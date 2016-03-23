@@ -1,0 +1,18 @@
+# WebStorm Files  #
+###################
+.idea/*
+
+# Eclipse Files  #
+###################
+.settings/*
+
+
+# Compiled source #
+###################
+target/*
+*.war
+
+# Compilation log #
+###################
+compile.log
+/target/
